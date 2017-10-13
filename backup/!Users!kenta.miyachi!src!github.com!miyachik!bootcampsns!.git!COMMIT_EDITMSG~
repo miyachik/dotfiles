@@ -1,0 +1,11 @@
+icon_file_namemo
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Wed Jul 5 13:54:03 2017 +0900
+#
+# On branch fix/create-admin
+# Changes to be committed:
+#	modified:   app/controllers/users_controller.rb
+#

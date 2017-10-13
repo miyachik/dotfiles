@@ -1,0 +1,11 @@
+mediaを軸にで集計するように
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Wed Sep 27 17:04:56 2017 +0900
+#
+# On branch feature/crwal-alert
+# Changes to be committed:
+#	modified:   lib/tasks/crawl_alert.rake
+#

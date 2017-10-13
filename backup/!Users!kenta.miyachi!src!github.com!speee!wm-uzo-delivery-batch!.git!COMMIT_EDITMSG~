@@ -1,0 +1,14 @@
+Create V112__alter_media_properties_url_suffix_regexp.sql.sql
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Author:    Kenta Miyachi <atto.mark56@gmail.com>
+# Date:      Tue Aug 22 21:13:15 2017 +0900
+#
+# On branch add-urlSuffixRegexp
+# Your branch is up-to-date with 'origin/add-urlSuffixRegexp'.
+#
+# Changes to be committed:
+#	new file:   modules/wm_uzo_delivery_db/sqls/V112__alter_media_properties_url_suffix_regexp.sql
+#
